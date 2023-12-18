@@ -3,10 +3,8 @@
  <img width=200px height=200px src="https://storage.googleapis.com/siap/laifu%20png2.png" alt="Project logo"></a>
 </p>
 
-<h2 align="center">LaifU
-<br>
-<b align="center"> Bangkit Academy Final Capstone Project </b>
-  </h2>
+<h2 align="center">LaifU - CH2-PS453</h2>
+<h3 align="center">Bangkit Academy Final Capstone Project</h3>
 
 
 <div align="center">
