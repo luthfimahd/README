@@ -28,3 +28,6 @@
 | [Muhamad Amrul Syaifulloh](https://github.com/amrulsy) | C695BSY4398 | Cloud Computing | Universitas Nahdlatul Ulama Al Ghazali Cilacap |
 |  [Hanifah Pramesti]() |  A175BSX2949 | Android Development | STMIK Sinar Nusantara |
 
+## 🤖 Machine Learning <a name = "ml"></a>
+## ☁️ Cloud Computing <a name = "ml"></a>
+## 📲 Mechine Learning <a name = "ml"></a>
