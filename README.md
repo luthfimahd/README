@@ -19,14 +19,14 @@
 
 ## ✍️ Team Project <a name = "team"></a>
 
-| Nama | ID | Path | Kampus |
-|---|---|---|---|
-| [Yumna Aqila Rasyidah]() | M008BSX0563 | Machine Learning | Universitas Gadjah Mada |
-| [Zulfikar Pramadhana]() | M008BSY0779 | Machine Learning | Universitas Gadjah Mada |
-| [Rangga Rahman Ardiansyah]() |  M008BSY0453 | Machine Learning | Universitas Gadjah Mada |
-| [Rafid Al Khairy]() | C701BSY3518 | Cloud Computing | Institut Teknologi Kalimantan |
-| [Muhamad Amrul Syaifulloh](https://github.com/amrulsy) | C695BSY4398 | Cloud Computing | Universitas Nahdlatul Ulama Al Ghazali Cilacap |
-|  [Hanifah Pramesti]() |  A175BSX2949 | Android Development | STMIK Sinar Nusantara |
+| Nama | ID | Path | Kampus | LinkedIn |
+|---|---|---|---|---|
+| [Yumna Aqila Rasyidah]() | M008BSX0563 | Machine Learning | Universitas Gadjah Mada | <a href="https://www.linkedin.com/in/yumna-aqila-rasyidah-2b44491bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:fransiskus.ricardo@mail.ugm.ac.id"> |
+| [Zulfikar Pramadhana](https://github.com/ZulfikarPra) | M008BSY0779 | Machine Learning | Universitas Gadjah Mada | <a href="https://www.linkedin.com/in/zulfikarpra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:fransiskus.ricardo@mail.ugm.ac.id"> |
+| [Rangga Rahman Ardiansyah]() |  M008BSY0453 | Machine Learning | Universitas Gadjah Mada | <a href="https://www.linkedin.com/in/rangga-rahman-ardiansyah-88982b295/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:fransiskus.ricardo@mail.ugm.ac.id"> |
+| [Rafid Al Khairy](https://github.com/Rothiii) | C701BSY3518 | Cloud Computing | Institut Teknologi Kalimantan | <a href="https://www.linkedin.com/in/rafid-al-khairy-8a44a1218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:fransiskus.ricardo@mail.ugm.ac.id"> |
+| [Muhamad Amrul Syaifulloh](https://github.com/amrulsy) | C695BSY4398 | Cloud Computing | Universitas Nahdlatul Ulama Al Ghazali Cilacap | <a href="https://www.linkedin.com/in/muhamad-amrul-syaifulloh-35019a242/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:fransiskus.ricardo@mail.ugm.ac.id"> |
+| [Hanifah Pramesti](https://github.com/hanifahpramesti) |  A175BSX2949 | Android Development | STMIK Sinar Nusantara | <a href="https://www.linkedin.com/in/hanifah-pramesti-1589a7284/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:fransiskus.ricardo@mail.ugm.ac.id"> |
 
 ## 🤖 Machine Learning <a name = "ml"></a>
 ## ☁️ Cloud Computing <a name = "ml"></a>
