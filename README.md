@@ -3,8 +3,11 @@
  <img width=200px height=200px src="https://storage.googleapis.com/siap/laifu%20png2.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">LaifU</h3>
+<h2 align="center">LaifU
+<br>
 <b align="center"> Bangkit Academy Final Capstone Project </b>
+  </h2>
+
 
 <div align="center">
 
@@ -20,10 +23,10 @@
 
 | Nama | ID | Path | Kampus |
 |---|---|---|---|
-| Yumna Aqila Rasyidah | M008BSX0563 | Machine Learning | Universitas Gadjah Mada |
-| Zulfikar Pramadhana | M008BSY0779 | Machine Learning | Universitas Gadjah Mada |
-| Rangga Rahman Ardiansyah |  M008BSY0453 | Machine Learning | Universitas Gadjah Mada |
-| Rafid Al Khairy | C701BSY3518 | Cloud Computing | Institut Teknologi Kalimantan |
-| Muhamad Amrul Syaifulloh | C695BSY4398 | Cloud Computing | Universitas Nahdlatul Ulama Al Ghazali Cilacap |
-|  Hanifah Pramesti |  A175BSX2949 | Android Development | STMIK Sinar Nusantara |
+| [Yumna Aqila Rasyidah]() | M008BSX0563 | Machine Learning | Universitas Gadjah Mada |
+| [Zulfikar Pramadhana]() | M008BSY0779 | Machine Learning | Universitas Gadjah Mada |
+| [Rangga Rahman Ardiansyah]() |  M008BSY0453 | Machine Learning | Universitas Gadjah Mada |
+| [Rafid Al Khairy]() | C701BSY3518 | Cloud Computing | Institut Teknologi Kalimantan |
+| [Muhamad Amrul Syaifulloh](https://github.com/amrulsy) | C695BSY4398 | Cloud Computing | Universitas Nahdlatul Ulama Al Ghazali Cilacap |
+|  [Hanifah Pramesti]() |  A175BSX2949 | Android Development | STMIK Sinar Nusantara |
 
